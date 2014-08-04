@@ -2,7 +2,7 @@
   "name": "nodejselsasticsearch",
   "version": "0.0.0",
   "dependencies": {
-    "elasticsearch": "^2.3.1"
+    "elasticsearch": "^2.4.0"
   },
   "devDependencies": {
     "grunt": "^0.4.1",
